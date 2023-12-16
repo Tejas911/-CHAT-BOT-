@@ -23,5 +23,5 @@ Requirements
 
 ## Screenshots!
 ![chat3](https://github.com/Tejas911/local-gpt/assets/97599851/8d49f6a7-1de6-4104-873a-8d1a377e17a8)
-[chat2](https://github.com/Tejas911/local-gpt/assets/97599851/4a7a4f18-ceff-43ad-bd20-ad3d5a619812)
+![chat2](https://github.com/Tejas911/local-gpt/assets/97599851/4a7a4f18-ceff-43ad-bd20-ad3d5a619812)
 
